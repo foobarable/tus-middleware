@@ -1,7 +1,5 @@
 {
-  "author": {
-    "name": "Ralph Krimmel, Niklas von Hertzen"
-  },
+  "author": "Ralph Krimmel, Niklas von Hertzen",
   "bugs": {
     "url": "https://github.com/foobarable/tus-middleware/issues"
   },
@@ -19,7 +17,6 @@
     "shasum": "75c7d9042df08d505791687431737b9d1e92ef21",
     "tarball": "http://registry.npmjs.org/tus/-/tus-0.1.7.tgz"
   },
-  "gitHead": "3910c312439a9bb1df51c8c072c3ffc12c49931d",
   "homepage": "https://github.com/foobarable/tus-middleware",
   "keywords": [
     "connect",
@@ -31,17 +28,13 @@
   "license": "MIT",
   "main": "lib/tus.js",
   "maintainers": [
-    {
-      "name": "foobarable",
-      "email": "mail@postefix.de"
-    }
+    "foobarable <mail@postefix.de>"
   ],
-  "name": "tus",
+  "name": "tus-middleware",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git@github.com:foobarable/tus-middleware.git"
+    "url": "git+ssh://git@github.com/foobarable/tus-middleware.git"
   },
   "scripts": {
     "test": "mocha"
