@@ -1,4 +1,4 @@
-# node-tus-middleware
+# tus-middleware
 
 [![Build Status](https://travis-ci.org/niklasvh/node-tus.png)](https://travis-ci.org/niklasvh/node-tus)
 [![NPM Downloads](https://img.shields.io/npm/dm/tus.svg)](https://www.npmjs.org/package/tus)
