@@ -5,6 +5,7 @@
 [![NPM Version](https://img.shields.io/npm/v/tus.svg)](https://www.npmjs.org/package/tus)
 
 Node.js resumable upload middleware for [express](http://expressjs.com/)/[connect](https://github.com/senchalabs/connect) implementing the [tus resumable upload protocol](http://tus.io/protocols/resumable-upload.html).
+This repo is a fork from the middleware implementation of Niklas von Hertzen. So far, it does not support the tus protocol version 1.0.0. The aim of this project is to do so.
 
 ## Installation
 
