@@ -1,42 +1,9 @@
 {
-  "_args": [
-    [
-      "tus@*",
-      "/home/rkrimme1/p/gp3"
-    ]
-  ],
-  "_from": "tus@*",
-  "_id": "tus@0.1.7",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/tus",
-  "_npmUser": {
-    "email": "niklasvh@gmail.com",
-    "name": "niklasvh"
-  },
-  "_npmVersion": "1.4.14",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "tus",
-    "raw": "tus@*",
-    "rawSpec": "*",
-    "scope": null,
-    "spec": "*",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/tus/-/tus-0.1.7.tgz",
-  "_shasum": "75c7d9042df08d505791687431737b9d1e92ef21",
-  "_shrinkwrap": null,
-  "_spec": "tus@*",
-  "_where": "/home/rkrimme1/p/gp3",
   "author": {
-    "name": "Niklas von Hertzen"
+    "name": "Ralph Krimmel, Niklas von Hertzen"
   },
   "bugs": {
-    "url": "https://github.com/niklasvh/tus/issues"
+    "url": "https://github.com/foobarable/tus-middleware/issues"
   },
   "dependencies": {
     "bluebird": "^2.1.3"
@@ -53,7 +20,7 @@
     "tarball": "http://registry.npmjs.org/tus/-/tus-0.1.7.tgz"
   },
   "gitHead": "3910c312439a9bb1df51c8c072c3ffc12c49931d",
-  "homepage": "https://github.com/niklasvh/tus",
+  "homepage": "https://github.com/foobarable/tus-middleware",
   "keywords": [
     "connect",
     "express",
@@ -65,8 +32,8 @@
   "main": "lib/tus.js",
   "maintainers": [
     {
-      "name": "niklasvh",
-      "email": "niklasvh@gmail.com"
+      "name": "foobarable",
+      "email": "mail@postefix.de"
     }
   ],
   "name": "tus",
@@ -74,7 +41,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/niklasvh/tus.git"
+    "url": "git@github.com:foobarable/tus-middleware.git"
   },
   "scripts": {
     "test": "mocha"
