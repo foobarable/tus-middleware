@@ -9,7 +9,7 @@ This repo is a fork from the middleware implementation of Niklas von Hertzen. So
 
 ## Installation
 
-    $ npm install tus
+    $ npm install tus-middleware
 
 ## Usage
 
